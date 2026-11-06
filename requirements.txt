@@ -1,0 +1,30 @@
+# =============================================================================
+# MINI JARVIS - Python Dependencies
+# =============================================================================
+# Install all required packages using:
+#     pip install -r requirements.txt
+# =============================================================================
+
+# GUI Framework (Modern dark sci-fi Iron Man interface)
+customtkinter>=6.0.0
+
+# Speech Recognition & Audio Capture
+SpeechRecognition>=3.14.0
+PyAudio>=0.2.14
+
+# Text-To-Speech Synthesis
+pyttsx3>=2.98
+pywin32>=308
+
+# Computer Vision & Face Detection
+opencv-python>=4.9.0
+pillow>=10.0.0
+numpy>=1.26.0
+
+# LLM Cognitive Brain & Networking
+openai>=1.40.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Hardware & System Diagnostics (CPU, RAM, Battery)
+psutil>=5.9.0
